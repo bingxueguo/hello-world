@@ -1,5 +1,4 @@
 # hello-world
-first repository
 
 最近觉得一天过得很快，不容易看不到身边的风景。偶尔想你，你是谁呢？
 
